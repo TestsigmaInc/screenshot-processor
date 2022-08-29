@@ -1,0 +1,22 @@
+height: 31
+left: 999.6953125
+top: 12.5
+width: 122
+
+innerHeight: 354
+innerWidth: 1728
+
+
+
+
+
+innerHeight: 354
+innerWidth: 1728
+
+outerHeight: 994
+outerWidth: 1728
+
+height: 32
+left: 52
+top: 492.09375
+width: 178
